@@ -1,0 +1,7 @@
+{
+  "name": "PARKLAND 🔍SEARCH CENTRE",
+  "description": "Comprehensive Parkland Search Centre - Discover nature parks, equestrian trails, recreational facilities, community services, schools, events, and instant directory information for Parkland.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
